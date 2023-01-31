@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📚 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
-- [Fonts Awesome](https://github.com/michalsnik/aos)
+- [Fonts Awesome](https://fontawesome.com/)
 
 
 -----
