@@ -23,7 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Google Fonts](https://fonts.google.com/)
 - [Fonts Awesome](https://fontawesome.com/)
 
-
 -----
 
   <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
