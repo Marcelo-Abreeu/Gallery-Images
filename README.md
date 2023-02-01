@@ -2,7 +2,7 @@
  🖼️ Gallery Images
 </h1>
 
-<img src="assets/imgs/ScreenshotSite.jpeg" width="100%">
+<img src="assets/img/ScreenshoteSite.jpeg" width="100%">
 
 ## 📝 Descrição 
 
